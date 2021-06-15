@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accuciatest</string>
+    <string name="available_in">Available in</string>
+    <string name="available_in_different_colors_click_here">Available in different colors Click Here!</string>
+</resources>
